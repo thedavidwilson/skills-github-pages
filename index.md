@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog!
-:Here it is. 
+title: Welcome to my blog! Here it is. 
 ---
